@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Adam</h1>
+<h3 align="center">I want to work in Software Localization</h3>
 
-<!--
-**aormsby/aormsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aormsby" alt="aormsby" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **a localized Xamarin mobile app**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **more Xamarin, JavaScript, common algorithms, and Vietnamese**
+
+- 👯 I’m looking to collaborate on **localization-related projects**
+
+- 🤝 I’m looking for help with **finding Localization Engineer work**
+
+- 👨‍💻 All of my project info is available at [https://www.adamormsby.com/projects/](https://www.adamormsby.com/projects/)
+
+- 📝 I regularly write blog posts on [https://www.adamormsby.com](https://www.adamormsby.com)
+
+- 💬 Ask me about **living in Ha Noi**
+
+- 📫 How to reach me **ormsbyadam@gmail.com**
+
+- ⚡ Fun fact: **I cycled across Cuba once**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aormsby&layout=compact&hide=html" alt="aormsby" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aormsby&show_icons=true" alt="aormsby" /></p>
+
+<p align="center">
+<a href="https://linkedin.com/in/adamormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adamormsby" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/3622169/aormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3622169/aormsby" height="30" width="30" /></a>
+</p>

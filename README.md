@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">I want to work in Software Localization</h3>
+<h1 align="center">Hi, I'm Adam 👋</h1>
+<h3 align="center">I want to work with you in Software Localization</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aormsby" alt="aormsby" /> </p>
+<p align="center">
+<a href="https://linkedin.com/in/adamormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adamormsby" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/3622169/aormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3622169/aormsby" height="30" width="30" /></a>
+</p>
 
 - 🔭 I’m currently working on **a localized Xamarin mobile app**
 
@@ -25,7 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aormsby&show_icons=true" alt="aormsby" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/adamormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adamormsby" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/3622169/aormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3622169/aormsby" height="30" width="30" /></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aormsby" alt="aormsby" /> </p>

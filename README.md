@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Adam 👋</h1>
-<h3 align="center">I want to work with you in Software Localization</h3>
+<h3 align="center">I want to work with you on Device Application Development</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/adamormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adamormsby" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/3622169/aormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3622169/aormsby" height="30" width="30" /></a>
 </p>
 
-- 🔭 I’m currently working on **a localized Xamarin mobile app**
+- 🔭 I’m currently working on **a Xamarin mobile app with localization**
 
-- 🌱 I’m currently learning **more Xamarin, JavaScript, common algorithms, and Vietnamese**
+- 🌱 I’m currently learning **SQL, Web APIs, and Vietnamese**
 
-- 👯 I’m looking to collaborate on **localization-related projects**
+- 👯 I’m looking to collaborate on **JAMstack projects**
 
-- 🤝 I’m looking for help with **finding Localization Engineer work**
+- 🤝 I’m looking for help with **learning about wearables/IoT development**
 
 - 👨‍💻 All of my project info is available at [https://www.adamormsby.com/projects/](https://www.adamormsby.com/projects/)
 

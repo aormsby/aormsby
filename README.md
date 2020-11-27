@@ -15,7 +15,7 @@
     - **anything JAMstack**
 
 - 🤝 I’m looking for help with:
-    - **focusing my skills to be more 'hireable'**
+    - **presenting my skills in a more 'hireable' way**
     - **a multilingual WordPress/WooCommerce site**
 
 - 👨‍💻 All of my project info is available at [https://www.adamormsby.com/portfolio/general/](https://www.adamormsby.com/portfolio/general/)

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adam 👋</h1>
+<h1 align="center">Hi, I'm Adam! 👋</h1>
 <h3 align="center">I want to work with you on something impactful.</h3>
 
 <p align="center">

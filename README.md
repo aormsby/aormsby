@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adam 👋</h1>
-<h3 align="center">I want to work with you on Device Application Development</h3>
+<h3 align="center">I want to work with you on something impactful.</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/adamormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adamormsby" height="30" width="30" /></a>

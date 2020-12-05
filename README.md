@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React.js and Vietnamese**
 
 - 👯 I’m looking to collaborate on:
-    - **translating my Xamarin app**
+    - **translating my Xamarin app** -> https://github.com/aormsby/I-Am-Localization-Resources
     - **anything JAMstack**
 
 - 🤝 I’m looking for help with:

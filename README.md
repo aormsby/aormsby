@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **a Xamarin mobile app with localization**
 
-- 🌱 I’m currently learning **SQL, Web APIs, and Vietnamese**
+- 🌱 I’m currently learning **React.js and Vietnamese**
 
 - 👯 I’m looking to collaborate on:
     - **translating my Xamarin app**
     - **anything JAMstack**
 
 - 🤝 I’m looking for help with:
-    - **presenting my skills in a more 'hireable' way**
-    - **a multilingual WordPress/WooCommerce site**
+    - **learning the finer points of data structures and algorithms**
+    - **getting hired**
 
 - 👨‍💻 All of my project info is available at [https://www.adamormsby.com/portfolio/general/](https://www.adamormsby.com/portfolio/general/)
 

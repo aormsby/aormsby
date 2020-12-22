@@ -8,21 +8,21 @@
 
 - 🔭 I’m currently working on **a Xamarin mobile app with localization**
 
-- 🌱 I’m currently learning **React.js and Vietnamese**
+- 🌱 I’m currently learning **Android Development & Vietnamese**
 
 - 👯 I’m looking to collaborate on:
     - **translating my Xamarin app** -> https://github.com/aormsby/I-Am-Localization-Resources
-    - **anything JAMstack**
+    - **Github Action testing**
 
-- 🤝 I’m looking for help with:
-    - **learning the finer points of data structures and algorithms**
-    - **getting hired**
+- 🤝 I’m looking for help with **understanding where algorithms are actually used in real work.** Like really, is Two Sum ever useful?
 
 - 👨‍💻 All of my project info is available at [https://www.adamormsby.com/portfolio/general/](https://www.adamormsby.com/portfolio/general/)
 
 - 📝 I regularly write blog posts on [https://www.adamormsby.com](https://www.adamormsby.com)
 
-- 💬 Ask me about **living in Ha Noi**
+- 💬 Ask me about:
+    - **internationalization & localization**
+    - **my time in Ha Noi**
 
 - 📫 How to reach me **ormsbyadam@gmail.com**
 

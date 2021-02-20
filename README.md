@@ -3,7 +3,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/adamormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adamormsby" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/3622169/aormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3622169/aormsby" height="30" width="30" /></a>
 </p>
 
 - 🔭 I’m currently working on **Android apps!**

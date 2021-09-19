@@ -1,20 +1,18 @@
 <h1 align="center">Hi, I'm Adam! 👋</h1>
-<h3 align="center">I want to work with you on something impactful.</h3>
+<h3 align="center">I'm an Android developer, but I often work on other stuff here. And I blog.</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/adamormsby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adamormsby" height="30" width="30" /></a>
+  <a href="https://adamormsby.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Circle-icons-document.svg" alt="blog of adam ormsby" height="60" width="60"" /></a>
+  <a href="https://linkedin.com/in/adamormsby" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin profile of adam ormsby" height="60" width="60" /></a>
 </p>
 
-- 🔭 I’m currently working on **Android apps!**
+    
+- 🔭 **I’m working on** a variety of small projects in my free time
 
-- 🌱 I’m currently learning **Vietnamese (sometimes)**
+- 🌱 **I’m learning** more Kotlin!
+    
+- 🤝 **I’m looking for help** finding better code challenges
 
-- 🤝 I’m looking for help with **improving my Github Actions**
+- 💬 **Ask me about** working remotely
 
-- 📝 I regularly blog at [https://www.adamormsby.com](https://www.adamormsby.com)
-
-- 💬 Ask me about **Android development**
-
-- 📫 How to reach me **ormsbyadam@gmail.com**
-
-- ⚡ Fun fact: **I cycled across part of Cuba once!**
+- ⚡ **Fun fact:** I lived abroad for a few years and would love to again

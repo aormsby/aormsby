@@ -7,12 +7,10 @@
 </p>
 
     
-- 🔭 **I’m working on** a variety of small projects in my free time
+- 🔭 **I’m working on** a motivational app that I hope will support many languages
 
-- 🌱 **I’m learning** more Kotlin!
+- 🌱 **I’m learning** more Kotlin! MOAR!
     
-- 🤝 **I’m looking for help** finding better code challenges
+- 🤝 **I’m looking for help** with localization and CI/CD for Android
 
-- 💬 **Ask me about** working remotely
-
-- ⚡ **Fun fact:** I lived abroad for a few years and would love to again
+- 💬 **Ask me about** my experience as an expatriate

@@ -6,11 +6,4 @@
   <a href="https://linkedin.com/in/adamormsby" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin profile of adam ormsby" height="60" width="60" /></a>
 </p>
 
-    
-- 🔭 **I’m working on** a motivational app that I hope will support many languages
-
-- 🌱 **I’m learning** more Kotlin! MOAR!
-    
-- 🤝 **I’m looking for help** with localization and CI/CD for Android
-
-- 💬 **Ask me about** my experience as an expatriate
+Always on the lookout for someone to talk to aboutlocalization or the weather - but like... nerd-level weather stuff.

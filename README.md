@@ -6,8 +6,8 @@
   <a href="https://linkedin.com/in/adamormsby" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin profile of adam ormsby" height="60" width="60" /></a>
 </p>
 
-- ⛈️ **Nerd-Level Weather** is currently on my radar.
+- ⛈️ **Weather Alerts** are currently on my radar.
 
-- 💬 **Languages** will always be cool to talk about.
+- 💬 **Languages and Linguistics** will always be cool to talk about.
     
 - 🎄 **Advent of Code** enthusiast all year round.
